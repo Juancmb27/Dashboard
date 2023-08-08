@@ -1,5 +1,5 @@
 import './Card.css'
-import {colorDec} from './App'
+import {colorDec} from '../App'
 import Graph from './Graph'
 
 export default function Card({price, porcentaje, img, coinId, cur}) {

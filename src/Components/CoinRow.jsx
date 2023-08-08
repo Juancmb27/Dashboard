@@ -1,6 +1,6 @@
 import React from 'react'
 import './CoinRow.css'
-import {deleteDec, colorDec, numberF} from './App'
+import {deleteDec, colorDec, numberF} from '../App'
 import Graph from './Graph'
 
 export default function CoinRow({coin, index}) {
